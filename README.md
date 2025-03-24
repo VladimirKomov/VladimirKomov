@@ -1,8 +1,6 @@
 ## Hi everybody 👋, my name is Vladimir.
 ![rabbit-1660_256](https://github.com/user-attachments/assets/dc3c1362-b977-45dc-a9ae-8e05718c4d2e)
 
-- 🔭 In the process of making a career change
-- 🌱 I'm curious about Full-Stack coding
 <!--
 **VladimirKomov/VladimirKomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
